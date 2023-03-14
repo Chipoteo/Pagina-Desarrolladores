@@ -59,7 +59,7 @@
             <h1 class="card-text">Aplicacion Inventario</h1>
             <hr>
             <div class="d-grid gap-2">
-            <a class="btn btn-secondary" href="../../Pagina desarrolladores/vista/Index_inventario.php" role="button">Dirigir</a>
+            <a class="btn btn-secondary" href="../../Pagina desarrolladores/vista/Index_inventario.php" role="button">Dirigir AP Inventario</a>
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@
             <h1 class="card-text">Aplicacion Domicilio</h1>
             <hr>
             <div class="d-grid gap-2">
-                <button class="btn btn-secondary" type="button">Ir</button>
+                <button class="btn btn-secondary" href="../../Pagina desarrolladores/vista/Index_domicilio.php" role="button">Dirigir AP Domicilio</button>
             </div>
         </div>
     </div>
