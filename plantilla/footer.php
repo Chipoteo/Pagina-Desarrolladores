@@ -50,7 +50,7 @@
         <!-- Grid column -->
 
         <!-- Grid column -->
-////////////////////////////
+
         <!-- Grid column -->
 
         <!-- Grid column -->
@@ -66,7 +66,7 @@
             <i class="fas fa-envelope me-3"></i>
             mateorada236@gmail.com
             <br>
-            gmail-de-will@gmail.com
+            wilderventemicolta@gmail.com
           </p>
           <p style="text-align: end;"><i class="fas fa-phone me-3"></i> + 57 318 530 8188 (Mateo Rada)</p>
           <p style="text-align: end;"><i class="fas fa-print me-3"></i> + 57 302 483 9305 (Wilder Vente) </p>
